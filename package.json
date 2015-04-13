@@ -1,13 +1,13 @@
 {
   "name": "flyd-lift",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Lift for Flyd.",
   "main": "flyd-lift.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "flyd": "^0.0.3"
+    "flyd": "0.1.x"
   },
   "devDependencies": {},
   "scripts": {
